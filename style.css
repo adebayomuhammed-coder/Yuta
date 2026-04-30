@@ -6,3 +6,9 @@ img{
    background-color: #e3f2fd;
    font-family: 'poppins' , sans-serif;
  }
+
+body.dark, body.dark blockquote {
+  background-color: #1a1a1a;
+  color: white;
+}
+  
