@@ -39,3 +39,17 @@ function toggleDark() {
 }
 
 darkBtn.addEventListener("click", toggleDark)
+
+
+
+ const catSound = document.querySelectorAll(".cat").forEach(cat => {cat.addEventListener("click",action)
+
+ });
+
+ function action (){
+  const meow = new Audio ("cat1.mp3");
+  meow.currentTime = 0 ;
+  meow.play();
+ }
+
+ 
