@@ -14,7 +14,7 @@ function handleClick() {
         showingYuta = 3
     }
     else{
-         design.src = "Yuta.jpg" // Change back to Yuta
+         design.src = "yuta.jpg" // Change back to Yuta
         design.alt = "Yuta the cat"
         showingYuta = 1 
     }
